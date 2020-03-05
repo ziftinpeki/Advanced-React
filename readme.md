@@ -1,3 +1,3 @@
-# Personal Repo for Advanced React & GraphQL 
+# Advanced React & GraphQL 
 
-This repo is for tracking my progress about the advance react course by Wes Bos I'm going to push my updates until the course finished.
+This repo is for tracking my progress about The Advance React Course by Wes Bos. I'm going to push my updates until the course finished.
