@@ -7,7 +7,7 @@ const Meta = () => (
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
     <link rel="shortcode icon" type="image/png" href="/static/favicon.png" />
-    <link rel="stylesheet" type="text/css" href="/static/ngprogress.css" />
+    <link rel="stylesheet" type="text/css" href="/static/nprogress.css" />
     <title>Sick Fits!</title>
   </Head>
 );
